@@ -1,11 +1,16 @@
 _repo: Espana-y-America-estudios-historicos-y-literarios_71533
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71533-h/images/cover.jpg
 creator:
   author:
     agent_name: Moguel, Antonio Sánchez
     gutenberg_agent_id: '56272'
     url: http://www.gutenberg.org/2009/agents/56272
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71533#Espana-y-America-estudios-historicos-y-literarios
 gutenberg_issued: '2023-08-31'
 identifiers:
   gutenberg: '71533'
